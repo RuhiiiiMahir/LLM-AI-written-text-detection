@@ -11,6 +11,9 @@ cd text-classifier-app
 ### Install the required dependencies using pip:
 pip install -r requirements.txt
 
+## Model Information
+The model used in this application was trained as part of a Kaggle competition. You can find the trained model file on Google Drive link https://drive.google.com/drive/folders/1WURlp3hPhR4gXa9w1se1XC_93MZ1bSt_?usp=sharing.
+
 ## Usage
 After installing the dependencies, you can run the Streamlit app by executing the following command:
 streamlit run app.py
