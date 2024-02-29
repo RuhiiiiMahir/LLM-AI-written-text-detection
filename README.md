@@ -1,6 +1,8 @@
 # LLM-AI-written-text-detection
 This tool helps discern between human and AI-generated text.      By leveraging machine learning, it analyzes linguistic patterns and semantic features to determine text authenticity. This is a Streamlit web application that utilizes a machine learning model to classify text as either human or AI-generated. The app preprocesses the input text, vectorizes it using a TextVectorization layer, and passes it through a trained model to make predictions. Users can input text in the provided text area and click the "Classify" button to get insights along with a confidence score.
 
+![LLM - Ai text detection](LLM-Ai-text-detection.gif)
+
 ## Installation
 To run this application locally, follow these steps:
 
