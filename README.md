@@ -31,3 +31,5 @@ Prediction: Whether the input text is classified as "Positive" (human-generated)
 Prediction Distribution: A bar chart showing the probability distribution of the prediction.
 Word Distribution: A bar chart displaying the frequency distribution of the top 10 words in the input text.
 Confidence Score: The confidence score for the classification.
+
+(Note: The dataset was sourced from a Kaggle competition: **https://www.kaggle.com/competitions/llm-detect-ai-generated-text**)
